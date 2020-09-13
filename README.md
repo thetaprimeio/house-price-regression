@@ -10,7 +10,7 @@ categorical types, and eliminating outliers.
 
 Next, Seaborn heatmaps were used to determine a set of features that were most strongly correlated with the sale price. These features were: 'OverallQual', 'GrLivArea', 'YearBuilt', '1stFlrSF', 'TotalBsmtSF', 'GarageArea', and 'GarageCars'. These values were then normalized using an instance of StandardScaler. 
 
-The three regression techniques applied to the processed data were: ordinary least squares, random forest, and gradient boosting. These models were fitted the linear_model and ensemble packages from sklearn.
+The three regression techniques applied to the processed data were: ordinary least squares, random forest, and gradient boosting. These models were fitted using objects from the linear_model and ensemble packages from sklearn.
 
 ### Results
 The table below summarizes the RMSE scores of each model, as applied to the training data set. 
