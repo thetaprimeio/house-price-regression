@@ -21,7 +21,7 @@ Ordinary Least Squares        |   0.156   |
 Random Forest  | 0.062  |
 Gradient Boosting  | 0.071  |
 
-As expected, the ordinary least squares regression provides the least predictive power, whereas the more sophisticated approaches of random forest and gradient regressions perform significantly better; obtaining root mean squared errors of less than 0.1 on the training data.
+As expected, the ordinary least squares regression provides the least predictive power, whereas the more sophisticated approaches of random forest and gradient regressions perform significantly better; obtaining root mean squared errors of less than 0.1 on the testing data.
 
 ### How to Run the Code
 To run this code, simply run the ipybn notebook file in Jupyter. Ensure that you have the following libraries installed: 	
