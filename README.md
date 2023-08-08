@@ -47,9 +47,4 @@ from sklearn.ensemble import GradientBoostingRegressor
 * [Pedro Marcelino's Kaggle kernel](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 * [Gerald Muriuki's repo](https://github.com/itsmuriuki/Predicting-House-prices)
 
-
-### Contact information 
-
-For any communication relating to this project, please email us at contact@thetaprime.io.
-
 ![alt text](thetaprime_shape.png)
